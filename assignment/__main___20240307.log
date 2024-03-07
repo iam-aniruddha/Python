@@ -1,0 +1,5 @@
+__main__ print_top_characters 07-03-24 14:41:42 {'args': ('HAPPIESTMINDS',)} Execution time: 0.0009 seconds
+__main__ monitor_app 07-03-24 14:42:55 {'args': ('notepad.exe', 2)} Execution time: 1.0961 seconds
+__main__ reverse_string 07-03-24 14:43:26 {'args': ('My name is Suraj',)} Execution time: 0.0000 seconds
+__main__ reverse 07-03-24 14:43:56 {'args': ('suraj is name my',)} Execution time: 0.0000 seconds
+__main__ fibonacci 07-03-24 14:44:14 {'args': (10,)} Execution time: 0.0750 seconds

@@ -1,0 +1,45 @@
+************* Module 1_top_3_char_freq
+1_top_3_char_freq.py:1:0: C0103: Module name "1_top_3_char_freq" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.89/10 (previous run: 8.75/10, +0.14)
+
+
+
+************* Module 2_list_the_running_process
+2_list_the_running_process.py:1:0: C0103: Module name "2_list_the_running_process" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.38/10 (previous run: 9.38/10, +0.00)
+
+
+
+************* Module 3_monitor_application
+3_monitor_application.py:1:0: C0103: Module name "3_monitor_application" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.23/10 (previous run: 9.17/10, +0.06)
+
+
+
+************* Module 4_reverse_using_inbuilt_func
+4_reverse_using_inbuilt_func.py:1:0: C0103: Module name "4_reverse_using_inbuilt_func" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.57/10 (previous run: 8.33/10, +0.24)
+
+
+
+************* Module 4_reverse_without_inbuilt_func
+4_reverse_without_inbuilt_func.py:1:0: C0103: Module name "4_reverse_without_inbuilt_func" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.17/10 (previous run: 9.09/10, +0.08)
+
+
+
+************* Module 5_fibonacci
+5_fibonacci.py:1:0: C0103: Module name "5_fibonacci" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.44/10 (previous run: 9.41/10, +0.03)
