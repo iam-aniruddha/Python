@@ -1,7 +1,3 @@
-Certainly! Here's the revised README file with the requested modifications:
-
----
-
 # README: Project Questions and Solutions
 
 ## Question I: Given a String of Characters
