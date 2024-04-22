@@ -14,5 +14,5 @@ def reverse_string(s):
     str2.reverse()
     return " ".join(str2)
 
-INPUT_STR = "My name is Suraj"
+INPUT_STR = input("Enter the sentence: ")
 print(reverse_string(INPUT_STR))
